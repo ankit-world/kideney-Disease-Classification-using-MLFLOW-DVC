@@ -1,0 +1,9 @@
+Steps
+
+1. Create and run Template.py for folder structure
+2. Update Requirements.txt with the required libraries
+3. Update setup.py file(Which will help you to set up the project as local package)
+4. Setup the virtual env and run requirements.txt file
+5. Add Logging functionality in .__init__ file of src/mlProject folder
+6. Update utils/common.py files
+7. Follow the workflow from ReadME file.
