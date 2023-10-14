@@ -18,9 +18,9 @@
 
 
 ```Project Workflow```
-1. update config.yaml
+1. update config.yaml(Add config.yaml file path under __init__.py file in constants)
 2. update secrets.yaml[Optional]
-3. update params.yaml
+3. update params.yaml(Add params.yaml file path under __init__.py file in constants)
 4. update the entity
 5. update the configuration manager in src config
 6. update the components
